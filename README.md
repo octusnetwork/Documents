@@ -2,6 +2,9 @@
 Octus' documents
 
 Whitepaper
+
 Logo
-Iconos
-Fondos
+
+Icons
+
+Backgrounds
