@@ -1,0 +1,56 @@
+[center][table][tr]
+[td][url=https://octus.network][font=monospace][size=1px][color=#003399]
+                                  ▓▓▓▓▓▓▓▓█                       
+                             █▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                   
+                           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                  
+                          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                 
+                         █▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█               
+                         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓              
+                        █▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓              
+                        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓              
+                        █▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓              
+                         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓             
+                         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓             
+                         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓             
+                         █▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓             
+                          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓            
+                          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓            
+                          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓            
+                           ▓▓▓▓▒▒▒▒▒▒▓   ▓▓▓▒▒▒▒▒▓▓▓▓            
+                           ▓▓▓▓▒▒▒▒▒▒▓▓▓▓▓▓▒▒▒▒▒▒▓▓▓▓▓           
+                           ▓▓▓▓▒▒▒▒▒▒▒▓▓▓▓▒▒▒▒▒▒▒▓▓▓▓▓           
+                           ▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓  ▓▓  ▓    
+                            ▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓ ▓▓ ▓  ▓  █ 
+ █▓▓▒▓▓▓▓                   ▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓ ▓▓▓▓▓ ▓ ░ ▓
+ ▓▓▓ ▓▓ ▓▓   █▓▓▓▓   ▓░▓▓▓  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓       ▓▓ ▓▓
+▓▓▓▓ ▓▓ ░▓   ▓▒░░░▓█ ▓░▓░▓  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█             █  
+ ▓▓▓▒▓▓▓▓▓   ▓▓  ▓▓    ▓     ▓▓▓▓▓               ▓▓▓▓▓▓▓    ▓  ▓▓ 
+    ▓▓▓        ▓▓     ▓▓▓       ██▓▓  █▓▓▓▓▓▓▓▓▓  ▓   ▓▓       █▓▓ 
+                            ▓   ▓   ▓▓▓   ▓   ▓   ▓▓▓▓▓   █▓▓ ▓▓▓    ▓▓▓  
+         ▓▓▓ ▓▓▓▓█     ▓     ▓▓▓▓ ▓     ▓▓▓▓▓▓▓▓█    ▓▓▓ █▓▓▓▓▓▓  
+                ▓▓▓▓█       ▓▓▓  ▓▓      ▓▓  ▓▓▓▓        ▓▓▓▓    
+                  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓          ▓▓▓▓▓▓▓              
+                     ▓▓▓▓▓▓▓▓ ▓    ▓▓▓▓▓▓    █ ▓▓▓▓              
+                                 ▓▓  ▓▓█ ▓   █▓▓▓▓▓              
+                                ▓▓█▓▓ ▒ ▓█    ▓▓▓▓▓              
+                                ▓▓█▓▓ ▒ ▓▓   ▓▓▓▓▓▓              
+                                █▓▓ ▓▓▒▓▓   ▓▓▓▓▓█               
+                                 ▓▓▓▓██  ▓▓▓▓▓▓▓▓                
+                                   ▓▓▓▓▓▓▓▓▓▓▓                   
+                                        █          
+[/td][td]
+[size=8pt][color=transparent].[/color][/size]
+[font=Arial Black][size=24px][color=#003399]OCTUS [color=teal]NETWORK [/color][/size][/td][td][b][font=Verdana][size=8px][color=#003399]
+ 
+ █
+ █
+[/color][/size][/font][/b][/td][td][size=6pt][color=transparent].[/color][/size]
+[center][url=https://octus.network/][font=Arial Black][size=13px][color=#252525]Automated distribution of cryptocurrencies
+[color=#252525][size=12px] Send cryptocurrencies in seconds to people around the world [/center][/td][td][b][font=Verdana][size=8px][color=#003399]
+ 
+ █
+ █
+[/color][/size][/font][/b][/td]
+ [td][size=6pt][color=transparent].[/color][/size]
+[center][url=https://octus.network/buy-en.html][font=Arial Black][size=13px][color=#f9af28]JOIN OUR PRE-SALE[/size][/url]
+[center][font=Arial Black][size=12px][url=https://bitcointalk.org/index.php?topic=2912137.0][color=#5b80cb] ANN[/url][url=https://t.me/octusnw][color=#5b80cb]│TELEGRAM[/url][url=https://twitter.com/octusnetwork][color=#5b80cb]│TWITTER[/url][url=https://www.facebook.com/octusnetwork][color=#5b80cb]│FACEBOOK[/url][/center][/td][/tr][/table][/center]
